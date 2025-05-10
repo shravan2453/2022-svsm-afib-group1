@@ -1,6 +1,6 @@
 # A Stepping Window Method For Identifying Atrial Fibrillation
 
-Contributors: Shravan Selvavel, Ari Singh, Taran Puvvala, Venkata Vadlamudi
+**Contributors:** Shravan Selvavel, Ari Singh, Taran Puvvala, Venkata Vadlamudi
 
 This Project Deals with detecting Atrial Fibrillation utilizing Public ECG Data and a novel stepping-window algorithm, feature selection, multiple classification models, and LOPO cross validation.
 
