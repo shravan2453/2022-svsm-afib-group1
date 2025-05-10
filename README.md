@@ -2,7 +2,7 @@
 
 **Contributors:** Shravan Selvavel, Ari Singh, Taran Puvvala, Venkata Vadlamudi
 
-This Project Deals with detecting Atrial Fibrillation utilizing Public ECG Data and a novel stepping-window algorithm, feature selection, multiple classification models, and LOPO cross validation.
+This project involves the detection of Atrial Fibrillation utilizing public electrocardiogram data as well as a novel stepping-window algorithm, feature selection, multiple classification models, and LOPO cross-validation.
 
 Research Presentation Link:
   [SVSM_Research_Presentation.pdf](https://github.com/user-attachments/files/20128301/SciFair23.AFIB.pdf)
